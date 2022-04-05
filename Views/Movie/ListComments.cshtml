@@ -1,0 +1,70 @@
+@model MvcMovie.Models.Movie
+
+<div class="container-comments">
+    <div class="d-flex justify-content-center row">
+        <div class="col-md-12">
+            <div class="d-flex flex-column comment-section">
+
+                @foreach (var item in Model.Comments)
+                {
+                    @Html.DisplayFor(Model => item);
+                    @Html.DisplayFor(Model => item.Like);
+                    @Html.ActionLink("Like", "Like", new {id = item.MovieId});
+
+
+                }
+                
+                <div class="bg-white">
+                    <div class="d-flex flex-row fs-12">
+                        <div class="like p-2 cursor"><i class="fa fa-thumbs-o-up"></i><span class="ml-1">Like</span></div>
+                        
+                        <div class="like p-2 cursor"><i class="fa fa-commenting-o"></i><span class="ml-1">Comment</span></div>
+                        <div class="like p-2 cursor"><i class="fa fa-share"></i><span class="ml-1">Share</span></div>
+                        <!--<button type="button" class="boton-reacciones">
+                            <a class="texto-boton">Reaccionar</span>
+                            <div class="reacciones">
+                                <div class="reaccion">
+                                    <i class="fas fa-thumbs-up"></i>
+                                    <span class="nombre-reccion">
+                                        Me gusta
+                                    </span>
+                                </div>
+                                <div class="reaccion">
+                                    <i class="fas fa-heart"></i>
+                                    <span class="nombre-reccion">
+                                        Me encanta
+                                    </span>
+                                </div>
+                                <div class="reaccion">
+                                    <i class="far fa-sad-tear"></i>
+                                    <span class="nombre-reccion">
+                                        Me entristece
+                                    </span>
+                                </div>
+                                <div class="reaccion">
+                                    <i class="far fa-grin-squint-tears"></i>
+                                    <span class="nombre-reccion">
+                                        Me divierte
+                                    </span>
+                                </div>
+                                <div class="reaccion">
+                                    <i class="far fa-angry"></i>
+                                    <span class="nombre-reccion">
+                                        Me enoja
+                                    </span>
+                                </div>
+                            </div>
+                        </button>-->
+                    </div>
+                </div>
+                <div class="bg-light p-2">
+                    <form asp-controller="Comments" asp-action="Save" method="POST">
+                        <input type="hidden" name="MovieId" value="@Model.Id" />
+                        <div class="d-flex flex-row align-items-start"><img class="rounded-circle" src="https://i.imgur.com/RpzrMR2.jpg" width="40"><textarea name="Text" class="form-control ml-1 shadow-none textarea"></textarea></div>
+                        <div class="mt-2 text-right"><button class="btn btn-primary btn-sm shadow-none" type="submit">Post comment</button><button class="btn btn-outline-primary btn-sm ml-1 shadow-none" type="button">Cancel</button></div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,13 @@
+@model MvcMovie.Models.Comments
+
+<div class="bg-white p-2">
+    <a  href="~/Comments/Delete?id=@Model.Id" class="mr-2 close p-2 bd-highlight" data-dismiss="toast" aria-label="Close">
+        <span style="color: red;" aria-hidden="true">&times;</span>
+    </a>
+    <div class="d-flex flex-row user-info"><img class="rounded-circle" src="https://media.istockphoto.com/photos/headshot-of-a-young-adult-picture-id1132792394?s=612x612" width="40">
+        <div class="d-flex flex-column justify-content-start ml-2"><span class="d-block font-weight-bold name">User</span><span class="date text-black-50">Publicado el - @Model.Date</span></div>
+    </div>
+    <div class="mt-2">
+        <p class="comment-text">@Model.Text</p>
+    </div>
+</div>

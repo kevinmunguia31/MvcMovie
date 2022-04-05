@@ -1,0 +1,118 @@
+[
+    {
+        "ID": 1,
+        "Title": "Bisolvon",
+        "Released": "C$ 149.99",
+        "Runtime": "162 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Plot": "Jarabe Tos Seca Frasco",
+        "Poster": "https://s.cornershopapp.com/product-images/1099968.png?versionId=WfgVlRLVn4j8cjT.MT8nwywkKE6N8hM3",
+        "Images": [
+            "https://i1.wp.com/hipertextual.com/wp-content/uploads/2021/04/Avengers-endgame-vengadores-endgame-scaled.jpeg?fit=2560%2C1442&ssl=1",
+            "https://media.cnnchile.com/sites/2/2019/04/avengers-740x420.jpg",
+            "https://as01.epimg.net/us/imagenes/2019/06/19/tikitakas/1560962193_678328_1560963312_noticia_normal_recorte1.jpg"
+        ]
+    },
+    {
+        "ID": 2,
+        "Title": "Loratadina",
+        "Released": "C$ 10.50 c/u",
+        "Runtime": "53 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Plot": "10 mg Mk 10 tabletas",
+        "Poster": "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 3,
+        "Title": "Genfar S.A.",
+        "Released": "C$ 8.800,00 C/un",
+        "Runtime": "53 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Plot": "Metformina Genfar 500Mg",
+        "Poster": "https://s.cornershopapp.com/product-images/1096479.jpg?versionId=E.sNVjt.OpwvRWBcfS8biMt4PwS1eS23",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 4,
+        "Title": "Diabetrics",
+        "Released": "C$ 71.900,00 C/un",
+        "Runtime": "53 min",
+        "Genre": "30 cápsulas",
+        "Plot": "Cromega Plus 30 Unidades",
+        "Poster": "https://s.cornershopapp.com/product-images/4238116.jpg?versionId=snEBW3d1DIAXzDZ8vhjOykaIS2AjB0t6",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 5,
+        "Title": "Pfizer",
+        "Released": "C$ 28.700,00 C/un",
+        "Runtime": "53 min",
+        "Genre": "20 cápsulas",
+        "Plot": "Celebrex celecoxib 200 mg",
+        "Poster": "https://s.cornershopapp.com/product-images/4238140.jpg?versionId=02JTqa5WgkRvXvOlTZSU3QVDXDVkpPI9",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 6,
+        "Title": "Electrolit Fresa",
+        "Released": "C$115.00",
+        "Runtime": "53 min",
+        "Genre": "20 cápsulas",
+        "Plot": "Electrolit Adulto FCO x 625ML",
+        "Poster": "https://superfarmaciaslafamiliar.com.ni/wp-content/uploads/2020/02/1030.jpg",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 7,
+        "Title": "Acetaminofen",
+        "Released": "C$ 88.25",
+        "Runtime": "53 min",
+        "Genre": "Se recomienda para tratar diferentes condiciones, tales como dolor de cabeza, dolores musculares, artritis, dolor de espalda, dolores de muelas, resfriados, y fiebre.",
+        "Plot": " 120MG/5ML (LANCASCO)",
+        "Poster": "https://superfarmaciaslafamiliar.com.ni/wp-content/uploads/2020/10/IMG_5417.jpg",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    },
+    {
+        "ID": 8,
+        "Title": "ATENOLOL",
+        "Released": "C$ 235.45",
+        "Runtime": "53 min",
+        "Genre": "Se usa para prevenir la angina . Dolor en el tórax.",
+        "Plot": "50MG 30 TAB (RAVEN)",
+        "Poster": "https://superfarmaciaslafamiliar.com.ni/wp-content/uploads/2021/02/IMG_8978.jpg",
+        "Images": [
+            "https://s.cornershopapp.com/product-images/1083393.jpg?versionId=1D7KTjlr8NCrgLKAi.ukjlhbaIcnbe28",
+            "https://images-na.ssl-images-amazon.com/images/I/81u1lvnc74L._RI_.jpg",
+            "https://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png"
+        ]
+    }
+    
+   
+    
+
+]

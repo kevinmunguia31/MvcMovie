@@ -1,0 +1,5 @@
+@model MvcMovie.Models.Movie
+
+<form asp-controller="Movie" asp-action="Save" method="POST" class="ml-6">
+    @Html.EditorFor(Model => Model, ViewData)
+</form>
